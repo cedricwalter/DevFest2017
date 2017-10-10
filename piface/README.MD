@@ -61,3 +61,6 @@ p.digital_read(1)
 Python prints 0.
 Now hold down switch number 1 (marked S1) and type p.digital_read(1) again.
 Python prints 1.
+
+
+see http://www.piface.org.uk/guides/Install_PiFace_Software for more
